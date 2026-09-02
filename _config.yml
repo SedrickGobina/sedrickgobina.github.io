@@ -98,7 +98,7 @@ theme_mode: dark # [light | dark] — set to dark to match the hacker aesthetic;
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: # add a path like /assets/img/avatar.png once you have an image ready
+avatar: /assets/img/profile.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
