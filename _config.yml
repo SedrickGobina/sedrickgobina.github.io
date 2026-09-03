@@ -16,7 +16,7 @@ timezone: Africa/Douala
 
 title: i4m5ilva # the main title
 
-tagline: Offensive security, one CTF at a time. # it will display as the subtitle
+tagline: Offensive security researcher, Penetration Tester, CTF Player # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Security research, CTF writeups, and notes from the path to CISO — by a
