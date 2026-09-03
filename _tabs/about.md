@@ -8,7 +8,7 @@ order: 4
 
 I’m Sedrick Gobina aka I4m5ilva, an offensive security researcher and MSc Network Engineering & Security student based in Cameroon. My goal is simple: chart a direct path to the CISO desk through the front lines of offensive security.
 
-This blog is my digital workbench—a place where I document the systems I break, the mechanics behind the exploits, and the hard-won security insights that only reveal themselves after the third failed attempt.
+This blog is my digital workbench; a place where I document the systems I break, the mechanics behind the exploits, and the hard-won security insights that only reveal themselves after the third failed attempt.
 
 ### What I do
 
