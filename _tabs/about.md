@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## Hey, I'm i4m5ilva.
+## Hey, there.
 
 I’m Sedrick Gobina aka I4m5ilva, an offensive security researcher and MSc Network Engineering & Security student based in Cameroon. My goal is simple: chart a direct path to the CISO desk through the front lines of offensive security.
 
